@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class ReverseWord {
     public static void main(String[] args) {
+        //Github test comment
         Scanner in = new Scanner(System.in);
         String word = in.next();
         
